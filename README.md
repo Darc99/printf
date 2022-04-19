@@ -1,1 +1,3 @@
-printf function built by Ugochukwu Anyanwu and Tobechukwu Onwuazombe.
+# printf
+
+A simple printf function built by Ugochukwu Anyanwu and Tobechukwu.
