@@ -1,4 +1,4 @@
-printf fuction created by Ugochukwu Anyanwu 
+printf fuction created by Ugochukwu Anyanwu and Tobechukwu
 
 #Welcome
 
